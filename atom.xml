@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://edacdy.github.io/</id>
     <title>EDa</title>
-    <updated>2019-06-25T12:21:08.743Z</updated>
+    <updated>2019-06-25T12:21:25.015Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://edacdy.github.io/"/>
     <link rel="self" href="https://edacdy.github.io//atom.xml"/>
@@ -16,8 +16,8 @@
         <link href="https://edacdy.github.io//post/2019-nian-6-yue-25-ri-wo-cong-bo-ke-zhong-zou-lai">
         </link>
         <updated>2019-06-25T12:12:59.000Z</updated>
-        <content type="html"><![CDATA[<pre><code>		现在我已经大二，我才开始写博客，虽然现在技术博客的红利期已过，但是技术会一直沉淀，
-		我会在这里不断积累，争取每一个学习阶段都有成果产出，希望可以减轻&quot;时间都去哪了&quot;的惆怅。</code></pre>
+        <content type="html"><![CDATA[<pre><code>	现在我已经大二，我才开始写博客，虽然现在技术博客的红利期已过，但是技术会一直沉淀，
+	我会在这里不断积累，争取每一个学习阶段都有成果产出，希望可以减轻&quot;时间都去哪了&quot;的惆怅。</code></pre>
 ]]></content>
     </entry>
     <entry>
