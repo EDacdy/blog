@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://EDaShare.github.io/</id>
+    <id>https://edacdy.github.io/</id>
     <title>EDa</title>
-    <updated>2019-06-25T11:49:29.398Z</updated>
+    <updated>2019-06-25T11:49:46.105Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://EDaShare.github.io/"/>
-    <link rel="self" href="https://EDaShare.github.io//atom.xml"/>
+    <link rel="alternate" href="https://edacdy.github.io/"/>
+    <link rel="self" href="https://edacdy.github.io//atom.xml"/>
     <subtitle>FE</subtitle>
-    <logo>https://EDaShare.github.io//images/avatar.png</logo>
-    <icon>https://EDaShare.github.io//favicon.ico</icon>
+    <logo>https://edacdy.github.io//images/avatar.png</logo>
+    <icon>https://edacdy.github.io//favicon.ico</icon>
     <rights>All rights reserved 2019, EDa</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://EDaShare.github.io//post/hello-gridea</id>
-        <link href="https://EDaShare.github.io//post/hello-gridea">
+        <id>https://edacdy.github.io//post/hello-gridea</id>
+        <link href="https://edacdy.github.io//post/hello-gridea">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
